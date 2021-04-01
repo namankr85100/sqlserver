@@ -1,0 +1,8 @@
+{  
+    "server": "localhost", 
+    
+    "options": {
+        "encrypt": true,
+        "database": "naman"
+    }
+} 
