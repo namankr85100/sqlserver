@@ -1,0 +1,8 @@
+{  
+    "server": "localhost", 
+    "instancename":"SQLEXPRESS",
+    "options": {
+        "encrypt": true,
+        "database": "naman"
+    }
+} 
